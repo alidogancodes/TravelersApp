@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477400132910",
+    "firebase_url": "https://travelers-8f7de.firebaseio.com",
+    "project_id": "travelers-8f7de",
+    "storage_bucket": "travelers-8f7de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477400132910:android:0b1b1de8f728d4d40e5ebf",
+        "android_client_info": {
+          "package_name": "com.alidogan.travelers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477400132910-kmj3eheirn4oqdrshteheg3i7jh8gf40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEdsLgSuDUANlgJOTlG8OkAw5VPIzxgAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477400132910-kmj3eheirn4oqdrshteheg3i7jh8gf40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
